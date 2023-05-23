@@ -5,7 +5,7 @@ from random import shuffle
 mylist = [' ', 'O',' ']
 
 def shuffle_list(mylist):
-    
+
     shuffle(mylist)
     return mylist
 
@@ -25,3 +25,4 @@ def check_guess(mixed_list,guess):
     else:
         print("Wrong guess!")
         print(mylist)
+
