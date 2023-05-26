@@ -68,4 +68,58 @@ print(my_player.die.value)
 my_player.roll_die()
 print(my_player.die.value)"""
 
+class DiceGame:
 
+    def __init__(self, player, computer):
+        self._player = player
+        self._computer = computer
+
+    def play(self):
+        print("============================")
+        print("🎲 Welcome to Roll the Dice!")
+        print("============================")
+        while True:
+            self.play_round()
+            #TODO:implement game over
+
+    def play_round(self):
+        #Welcome the user
+        print("--------New Round------")
+        input("🎲 Press any key to roll the Dice!🎲")
+
+        #Roll the dice
+        player_value = self._player.roll_die()
+        computer_value = self._computer.roll_die()
+
+        #Show the values
+        print(f"Your dice: {player_value}")
+        print(f"Computer die: {computer_value} ")
+
+        #Determine the winner and loser
+        if player_value > computer_value:
+            print("You won the round 🎉")
+            self._player.decrement_counter()  #winner
+            self._computer.increment_counter()  #loser
+        elif computer_value > player_value:
+            print("The computer won this round. 😔 Try again.")
+            self._computer.decrement_counter()  #winner
+            self._player.increment_counter()    #loser
+        else:
+            print("It's a tie!")
+
+        #show counters
+        print(f"Your counter: {self._player.counter}")
+        print(f"Computer counter: {self._computer.counter} \n")
+
+
+#Create instances
+player_die = Die()
+computer_die = Die()
+
+my_player = Player(player_die, is_computer=False)
+computer_player = Player(computer_die, is_computer=True)
+
+game = DiceGame(my_player, computer_player)
+
+#Start the game
+game.play()
