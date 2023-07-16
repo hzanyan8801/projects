@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f57e32-8da3-404c-a354-34e67b7395f4" name="Changes" comment="day 24: add lines">
-      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app-5-api/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app-5-api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../app-5-api/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
