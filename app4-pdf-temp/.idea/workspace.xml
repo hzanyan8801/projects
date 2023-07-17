@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51f57e32-8da3-404c-a354-34e67b7395f4" name="Changes" comment="day 24: add lines">
-      <change afterPath="$PROJECT_DIR$/../app-5-api/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student_App3_Nasa_Images/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app-5-api/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../app-5-api/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,14 +23,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/shopp/OneDrive/Desktop/Python 3/app-5-api",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shopp/OneDrive/Desktop/Python 3/app-5-api&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shopp\OneDrive\Desktop\Python 3\app4-pdf-temp" />
