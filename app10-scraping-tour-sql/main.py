@@ -2,6 +2,8 @@ import requests
 import selectorlib
 import smtplib, ssl
 import os
+import time
+import sqlite3
 
 
 URL = "http://programmer100.pythonanywhere.com/tours/"
