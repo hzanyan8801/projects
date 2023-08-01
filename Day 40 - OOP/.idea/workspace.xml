@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a59e7cee-afa0-41be-af53-be21735e5668" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day 39- Student-Project-Store-Temp-Data-SQL/webapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 39- Student-Project-Store-Temp-Data-SQL/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 39- Student-Project-Store-Temp-Data-SQL/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 39- Student-Project-Store-Temp-Data-SQL/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 39- Student-Project-Store-Temp-Data-SQL/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app10-scraping-tour-sql/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app10-scraping-tour-sql/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../app10-scraping-tour-sql/main.py" afterDir="false" />
+    <list default="true" id="a59e7cee-afa0-41be-af53-be21735e5668" name="Changes" comment="Day 40 - OOP">
+      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/hotels.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/planning" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/data.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +17,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2TL3ThPVRbpWSJ8pkoN0LLQaeZh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shopp/OneDrive/Desktop/Python 3/Day 40 - OOP&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Day 40 - OOP" />
@@ -60,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1690808542598</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 40 - OOP">
+      <created>1690808620043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690808620043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,6 +85,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 40 - OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 40 - OOP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
