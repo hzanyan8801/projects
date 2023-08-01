@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a59e7cee-afa0-41be-af53-be21735e5668" name="Changes" comment="Day 40 - OOP">
-      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/hotels.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/planning" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.db" beforeDir="false" afterPath="$PROJECT_DIR$/data.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/articles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/pdf_code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
