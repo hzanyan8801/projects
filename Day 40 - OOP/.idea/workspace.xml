@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a59e7cee-afa0-41be-af53-be21735e5668" name="Changes" comment="Day 40 - OOP">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/Day41-studentproject-pdfreport.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41-studentproject-pdfreport/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/.idea/app11-hotel-booking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/card_security.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../app11-hotel-booking/cards.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app11-hotel-booking/hotels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../app11-hotel-booking/hotels.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../app11-hotel-booking/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../app11-hotel-booking/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
